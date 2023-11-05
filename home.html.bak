@@ -19,8 +19,8 @@
             <ul>
               <a href="index.html"> </a>
               <li><a href="index.html"></a><a href="#Home">Home</a></li>
-              <li><a href="portfolio.html">Portfolio</a></li>
-             
+              <li><a href="Portfolio.html">Portfolio</a></li>
+              <li><a href="">Contact</a></li>
             </ul>
           </div>
           <div class="left-footer">
@@ -34,7 +34,7 @@
                 <li>+6680 554 5598</li>
               </ul>
             </div>
-            <div class="copy-rights">Copyright ï¿½2019 All rights reserved</div>
+            <div class="copy-rights">Copyright ©2019 All rights reserved</div>
           </div>
         </div>
         <div class="main-content">
@@ -65,9 +65,10 @@
                   and hands-on projects.<br>
                   <br>
                   <b>Passion for Design:</b><br>
-                  I have a deep passion for design, and I am constantly inspired
-                  by the world around me. I love creating visual solutions that
-                  communicate effectively and leave a lasting impact.<br>
+                  I have a deep passion for design, and I am constantly
+                  inspired by the world around me. I love creating visual
+                  solutions that communicate effectively and leave a lasting
+                  impact.<br>
                   <br>
                   <b>Experience:</b><br>
                   While I am a junior graphic designer, I have gained valuable
@@ -111,6 +112,5 @@
         </div>
       </div>
     </div>
-    
   </body>
 </html>
